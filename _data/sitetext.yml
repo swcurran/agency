@@ -94,7 +94,7 @@ en: &DEFAULT_EN
     people:
       - name: "Shirley Howard"
         role: "Englehart, Ontario"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/shirley.jpg
         # social:
         #   - url: https://twitter.com
         #     icon: fab fa-twitter
@@ -104,7 +104,7 @@ en: &DEFAULT_EN
         #     icon: fab fa-linkedin-in
       - name: "Carol Howard"
         role: "Victoria, BC"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/carol.jpg
         # social:
         #   - url: https://twitter.com
         #     icon: fab fa-twitter
