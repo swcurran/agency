@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Generations of Art
     text: Howard and Daughter - Art
-    button: Visit our Gallery
+    button: Visit the Gallery
     buttonlink: "#portfolio"
 
   # services:
@@ -63,9 +63,7 @@ en: &DEFAULT_EN
 
   about:
     title: "About Howard and Daughter - Art"
-    text: "Shirley's painting starts with landscapes of Northern Ontario. She has found so much to paint: forests, lakes and even the odd hill (mountain!). 
-    Her joy of landscapes was passed on to Carol, who jumped right in!</br></br>Carol has moved around a bit, carrying her brushes and canvas with her as she has explored. In each new place, new landscapes were found to enjoy and paint. So to were family outings, and an attachment to the creatures of her life -- the dogs in the family and animals in the wild."
-    body: ""
+    body: "Shirley and Carol Howard (Howard and Daughter) are two amazing artists hailing from Englehart, in Northern Ontario, Canada. Both are especially known for their landscapes of the nature around them -- Shirley in Englehart, and Carol now on Canada's West Coast. But as you will see in the gallery, they have a lot more than landscapes up their sleeves!"
     section: about
 
   # clients:
@@ -95,6 +93,7 @@ en: &DEFAULT_EN
       - name: "Shirley Howard"
         role: "Englehart, Ontario"
         image: assets/img/team/shirley.jpg
+        text: "Shirley (the 'Howard' part of the name) was born, raised and lives in Englehart. She is renowned for her landscapes and is a frequent invited guest in regional Art Shows, in Cobalt and Temiskaming Lakes. Shirley also loves to add texture to her works, combine paint with whatever suits her fancy -- bark, leaves, paper -- anything that adds to her creation."
         # social:
         #   - url: https://twitter.com
         #     icon: fab fa-twitter
@@ -105,6 +104,7 @@ en: &DEFAULT_EN
       - name: "Carol Howard"
         role: "Victoria, BC"
         image: assets/img/team/carol.jpg
+        text: "Carol (the 'Daughter' part of the name) was born and raised in Englehart, lives now in Victoria, BC, with stops along the way in Texas, Washington and Toronto. Carol's continues the family tradition in landscapes, capturing the nature in all the places she has lived and hiked. Carol frequently expresses her love of animals -- her own and those in the wild -- in her art."
         # social:
         #   - url: https://twitter.com
         #     icon: fab fa-twitter
