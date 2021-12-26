@@ -15,4 +15,3 @@ caption:
 - Date: January 2017
 - Client: Threads
 - Category: Illustration
-
